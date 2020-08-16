@@ -12,8 +12,8 @@ AE代表性模型：
 + Sparse AutoEncoder (SAE)
 + Contractive AutoEncoder (CAE)
 + Variational AutoEncoder (VAE)
-+ Recursive Autoencoder (RAE)
-+ Stacked Autoencoder (SAE)
++ Recursive AutoEncoder (RAE)
++ Stacked AutoEncoder (SAE)
 
 [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf) (SA-LSTM) is a practical demo.
 
