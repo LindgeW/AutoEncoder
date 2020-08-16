@@ -7,7 +7,7 @@ This simplified demo shows a scheme how to get sentence-level representation in 
 It's hard to evaluate the reconstructing ability of auto-encoder only to observe *mean square loss*. Therefore, I consider utilizing *cosine similarity* value for better evaluating the performance. (What you need to pay attention to is that we don't directly calculate the cosine similarity value between new sequence word vectors and old ones but through encoder first)
 ![](imgs/cos_sim.png)
 
-AE代表性模型：
+![AE代表性模型](https://www.cnblogs.com/huangyc/p/9824202.html)：
 + Denoising AutoEncoder (DAE)
 + Sparse AutoEncoder (SAE)
 + Contractive AutoEncoder (CAE)
